@@ -1,10 +1,10 @@
 {
   "root": true,
   "project": {
-    "name": "ecommerce"
+    "name": "sanity-samsung-galaxy-shop"
   },
   "api": {
-    "projectId": "vfxfwnaw",
+    "projectId": "qz1yguvc",
     "dataset": "production"
   },
   "plugins": [
